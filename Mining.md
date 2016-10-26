@@ -61,10 +61,10 @@ Header:
 
 See also [this proposal](https://github.com/ethereum/wiki/wiki/Extra-Data)
 
-You can check your hashrate with [miner.hashrate](https://github.com/ethereum/go-ethereum/wiki/JavaScript-Console#adminminerhashrate), the result is in H/s (Hash operations per second). 
+You can check your hashrate with [eth.hashrate](https://github.com/ethereum/go-ethereum/wiki/JavaScript-Console#adminminerhashrate), the result is in H/s (Hash operations per second). 
 
 ```
-> miner.hashrate
+> eth.hashrate
 712000
 ```
 
